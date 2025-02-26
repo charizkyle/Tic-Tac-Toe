@@ -1,5 +1,7 @@
 TIC-TAC-TOE: HEARTS AND STARS
+
 OWNED AND UPLOADED BY: Chariz Kyle Santos
+
 BSCPE 1-2
 
 Welcome to my custom Tic-Tac-Toe game! But here’s the twist—instead of Xs and Os, it features Hearts and Stars!
